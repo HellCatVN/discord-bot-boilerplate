@@ -1,0 +1,31 @@
+{
+  "name": "discord-bot-boilerplate",
+  "version": "1.0.0",
+  "description": "Discord.js , Discord.js Commando Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellCatVN/discord-bot-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HellCatVN/discord-bot-boilerplate/issues"
+  },
+  "homepage": "https://github.com/HellCatVN/discord-bot-boilerplate#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "discordjs/Commando",
+    "dotenv": "^8.2.0",
+    "i18next": "^19.8.4",
+    "i18next-node-fs-backend": "^2.1.3",
+    "i18next-sync-fs-backend": "^1.1.1",
+    "module-alias": "^2.2.2"
+  }
+}

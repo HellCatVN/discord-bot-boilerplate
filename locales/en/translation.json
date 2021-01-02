@@ -1,0 +1,4 @@
+{
+  "sample": "This is english message",
+  "sample_with_value": "This is value : {{value}}"
+}
